@@ -4,5 +4,14 @@
   "description": "miniProjects",
   "main": "index.js",
   "repository": "https://github.com/kylec296/crispy-pancake.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts" : {
+    "build" : "webpack --config webpack.config.js",
+    "start" : "webpack-dev-server"
+  }
 }
