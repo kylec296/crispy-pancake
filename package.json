@@ -1,0 +1,8 @@
+{
+  "name": "crispy-pancake",
+  "version": "1.0.0",
+  "description": "miniProjects",
+  "main": "index.js",
+  "repository": "https://github.com/kylec296/crispy-pancake.git",
+  "license": "MIT"
+}
